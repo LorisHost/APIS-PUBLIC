@@ -1,7 +1,7 @@
 -- AutoHookerLib.lua v7.0
 -- note: this api currently testing.
 -- Load with:
--- local Hooker = loadstring(game:HttpGet("https://your.url/AutoHookerLib.lua"))()
+-- local Hooker = loadstring(game:HttpGet("https://raw.githubusercontent.com/LorisHost/APIS-PUBLIC/refs/heads/main/APIS/AutoHookerLib.lua"))()
 
 -- Global export with version tracking
 local Hooker = {
